@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/bin/Debug/netcoreapp2.1/tut1.deps.json
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/bin/Debug/netcoreapp2.1/tut1.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/bin/Debug/netcoreapp2.1/tut1.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/bin/Debug/netcoreapp2.1/tut1.dll
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/bin/Debug/netcoreapp2.1/tut1.pdb
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.dll
+/home/altrunox/Documents/DEV204.3x/TutorialLab1/tut1/obj/Debug/netcoreapp2.1/tut1.pdb

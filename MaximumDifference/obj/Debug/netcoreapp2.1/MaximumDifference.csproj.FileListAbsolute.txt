@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/bin/Debug/netcoreapp2.1/MaximumDifference.deps.json
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/bin/Debug/netcoreapp2.1/MaximumDifference.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/bin/Debug/netcoreapp2.1/MaximumDifference.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/bin/Debug/netcoreapp2.1/MaximumDifference.dll
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/bin/Debug/netcoreapp2.1/MaximumDifference.pdb
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.dll
+/home/altrunox/Documents/DEV204.3x/MaximumDifference/obj/Debug/netcoreapp2.1/MaximumDifference.pdb

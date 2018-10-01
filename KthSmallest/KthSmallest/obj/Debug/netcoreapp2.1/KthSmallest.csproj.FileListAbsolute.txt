@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/bin/Debug/netcoreapp2.1/KthSmallest.deps.json
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/bin/Debug/netcoreapp2.1/KthSmallest.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/bin/Debug/netcoreapp2.1/KthSmallest.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/bin/Debug/netcoreapp2.1/KthSmallest.dll
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/bin/Debug/netcoreapp2.1/KthSmallest.pdb
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.dll
+/home/altrunox/Documents/DEV204.3x/KthSmallest/KthSmallest/obj/Debug/netcoreapp2.1/KthSmallest.pdb

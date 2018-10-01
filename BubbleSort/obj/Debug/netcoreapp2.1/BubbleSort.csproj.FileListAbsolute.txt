@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/BubbleSort/bin/Debug/netcoreapp2.1/BubbleSort.deps.json
+/home/altrunox/Documents/DEV204.3x/BubbleSort/bin/Debug/netcoreapp2.1/BubbleSort.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/BubbleSort/bin/Debug/netcoreapp2.1/BubbleSort.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/BubbleSort/bin/Debug/netcoreapp2.1/BubbleSort.dll
+/home/altrunox/Documents/DEV204.3x/BubbleSort/bin/Debug/netcoreapp2.1/BubbleSort.pdb
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.dll
+/home/altrunox/Documents/DEV204.3x/BubbleSort/obj/Debug/netcoreapp2.1/BubbleSort.pdb

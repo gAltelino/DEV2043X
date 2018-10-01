@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/bin/Debug/netcoreapp2.1/DepthOfNestingParentheses.deps.json
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/bin/Debug/netcoreapp2.1/DepthOfNestingParentheses.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/bin/Debug/netcoreapp2.1/DepthOfNestingParentheses.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/bin/Debug/netcoreapp2.1/DepthOfNestingParentheses.dll
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/bin/Debug/netcoreapp2.1/DepthOfNestingParentheses.pdb
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.dll
+/home/altrunox/Documents/DEV204.3x/DepthOfNestingParentheses/obj/Debug/netcoreapp2.1/DepthOfNestingParentheses.pdb
