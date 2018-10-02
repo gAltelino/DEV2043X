@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/Hashtables/bin/Debug/netcoreapp2.1/Hashtables.deps.json
+/home/altrunox/Documents/DEV204.3x/Hashtables/bin/Debug/netcoreapp2.1/Hashtables.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/Hashtables/bin/Debug/netcoreapp2.1/Hashtables.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/Hashtables/bin/Debug/netcoreapp2.1/Hashtables.dll
+/home/altrunox/Documents/DEV204.3x/Hashtables/bin/Debug/netcoreapp2.1/Hashtables.pdb
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.dll
+/home/altrunox/Documents/DEV204.3x/Hashtables/obj/Debug/netcoreapp2.1/Hashtables.pdb

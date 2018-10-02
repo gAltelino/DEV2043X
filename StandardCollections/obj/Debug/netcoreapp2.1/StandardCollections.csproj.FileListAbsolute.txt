@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.3x/StandardCollections/bin/Debug/netcoreapp2.1/StandardCollections.deps.json
+/home/altrunox/Documents/DEV204.3x/StandardCollections/bin/Debug/netcoreapp2.1/StandardCollections.runtimeconfig.json
+/home/altrunox/Documents/DEV204.3x/StandardCollections/bin/Debug/netcoreapp2.1/StandardCollections.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.3x/StandardCollections/bin/Debug/netcoreapp2.1/StandardCollections.dll
+/home/altrunox/Documents/DEV204.3x/StandardCollections/bin/Debug/netcoreapp2.1/StandardCollections.pdb
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.dll
+/home/altrunox/Documents/DEV204.3x/StandardCollections/obj/Debug/netcoreapp2.1/StandardCollections.pdb
